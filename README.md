@@ -17,13 +17,11 @@ Palantir develops platforms that let organizations:
 
 ### Core Products
 
-----------------------
 | Product |	Use Case |
 |---------|----------|
 | Foundry | Data integration and analytics for enterprises (healthcare, finance, manufacturing) |
 | Gotham | Used by governments, military, and intelligence for counterterrorism, defense, law enforcement |
 | Apollo | Software deployment and orchestration platform (similar to DevOps/AI ops layer) |
-----------------------
 
 <br />
 
