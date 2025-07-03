@@ -23,21 +23,3 @@ Palantir develops platforms that let organizations:
 | Gotham | Used by governments, military, and intelligence for counterterrorism, defense, law enforcement |
 | Apollo | Software deployment and orchestration platform (similar to DevOps/AI ops layer) |
 
-<br />
-
-### Used By
-- U.S. Government (CIA, FBI, DoD)
-- NATO
-- Commercial firms like:
-  - Ferrari (F1 performance analytics)
-  - Airbus
-  - BP
-  - JPMorgan Chase
-
-<br />
-
-### Headquarters
-- Mumbai, India.
-- Founded in 2025 by:
-  - Praful Pathare
-  - Vardan Sahani
