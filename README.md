@@ -1,8 +1,11 @@
+<br />
+<br />
+
 ![Palantir - Analytics](https://europeanbusinessmagazine.com/wp-content/uploads/2025/06/logo2.png)
 
 <br />
 
-Palantir Technologies is an American software company that builds powerful data analytics platforms for government agencies, defense, and commercial enterprises.
+<b>Palantir Technologies</b> is an American software company that builds powerful data analytics platforms for government agencies, defense, and commercial enterprises.
 
 <br />
 
